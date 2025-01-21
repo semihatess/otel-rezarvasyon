@@ -1,0 +1,17 @@
+C:\Users\Semih\Desktop\otel\otelrezervasyon\otelrezervasyon\bin\Debug\otelrezervasyon.exe.config
+C:\Users\Semih\Desktop\otel\otelrezervasyon\otelrezervasyon\bin\Debug\otelrezervasyon.exe
+C:\Users\Semih\Desktop\otel\otelrezervasyon\otelrezervasyon\bin\Debug\otelrezervasyon.pdb
+C:\Users\Semih\Desktop\otel\otelrezervasyon\otelrezervasyon\bin\Debug\MySql.Data.dll
+C:\Users\Semih\Desktop\otel\otelrezervasyon\otelrezervasyon\bin\Debug\System.Memory.dll
+C:\Users\Semih\Desktop\otel\otelrezervasyon\otelrezervasyon\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Semih\Desktop\otel\otelrezervasyon\otelrezervasyon\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Semih\Desktop\otel\otelrezervasyon\otelrezervasyon\bin\Debug\System.Buffers.dll
+C:\Users\Semih\Desktop\otel\otelrezervasyon\otelrezervasyon\obj\Debug\otelrezervasyon.csproj.AssemblyReference.cache
+C:\Users\Semih\Desktop\otel\otelrezervasyon\otelrezervasyon\obj\Debug\otelrezervasyon.YöneticiGiriş.resources
+C:\Users\Semih\Desktop\otel\otelrezervasyon\otelrezervasyon\obj\Debug\otelrezervasyon.Properties.Resources.resources
+C:\Users\Semih\Desktop\otel\otelrezervasyon\otelrezervasyon\obj\Debug\otelrezervasyon.csproj.GenerateResource.cache
+C:\Users\Semih\Desktop\otel\otelrezervasyon\otelrezervasyon\obj\Debug\otelrezervasyon.csproj.CoreCompileInputs.cache
+C:\Users\Semih\Desktop\otel\otelrezervasyon\otelrezervasyon\obj\Debug\otelreze.5351008E.Up2Date
+C:\Users\Semih\Desktop\otel\otelrezervasyon\otelrezervasyon\obj\Debug\otelrezervasyon.exe
+C:\Users\Semih\Desktop\otel\otelrezervasyon\otelrezervasyon\obj\Debug\otelrezervasyon.pdb
+C:\Users\Semih\Desktop\otel\otelrezervasyon\otelrezervasyon\obj\Debug\otelrezervasyon.anasayfa.resources
