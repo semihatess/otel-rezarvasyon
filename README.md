@@ -1,7 +1,7 @@
 # otel-rezarvasyon
 Final ödevi otel rezervasyonu
 
-#Youtube video linkim:https://www.youtube.com/channel/UCe48ZxdpsVQKLuDFzAHeLJQ
+#Youtube video linkim:https://youtu.be/TTu6NxPq-po?si=hDJRIw46T6h5EZba
 
 #Class Diyagram
 ![Class diyagram](https://github.com/user-attachments/assets/c4604f53-37f0-4eea-9d1a-c590df5fdd30)
